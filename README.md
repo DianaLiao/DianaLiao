@@ -1,7 +1,7 @@
 ## 👋🏻 Hi, I'm Diana!
 
 Full stack software developer based out of Washington, DC.  
-🧶 | 🎤 | 🎮 | 🎸 | 🎲
+🧶 | 🎤 | 🎮 | 🎸 | 🎲 | 🖖🏼    
 she/her/hers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
