@@ -6,7 +6,12 @@ she/her/hers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔭 I’m currently working on
+- Project demos
+- [Portfolio website](https://djliao.dev)
+
 ### 🌱 I’m currently learning
+- Advanced Data Structures
 - MongoDB
 
 ### 📚 Languages and Tools
