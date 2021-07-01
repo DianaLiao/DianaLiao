@@ -4,8 +4,6 @@ Full stack software developer based out of Washington, DC.
 🧶 | 🎤 | 🎮 | 🎸 | 🎲 | 🖖🏼    
 she/her/hers
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔭 I’m currently working on
 - Project demos
 - [Portfolio website](https://djliao.dev)
@@ -23,6 +21,8 @@ she/her/hers
 ### 📫 How to reach me
 - djliao(at)gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/djliao/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DianaLiao/DianaLiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
