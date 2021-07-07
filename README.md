@@ -1,8 +1,10 @@
-## 👋🏻 Hi, I'm Diana!
 
-Full stack software developer based out of Washington, DC.  
-🧶 | 🎤 | 🎮 | 🎸 | 🎲 | 🖖🏼    
+  
+<p align="center">
+Full stack software developer based out of Washington, DC.  <br>
+🧶 | 🎤 | 🎮 | 🎸 | 🎲 | 🖖🏼    <br>
 she/her/hers
+</p>
 
 ### 🔭 I’m currently working on
 - Project demos
@@ -25,6 +27,10 @@ she/her/hers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+## 👋🏻 Hi, I'm Diana!
+
+
 **DianaLiao/DianaLiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
