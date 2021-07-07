@@ -11,7 +11,7 @@ she/her/hers
 - [Portfolio website](https://djliao.dev)
 
 ### 🌱 I’m currently learning
-- Advanced Data Structures
+- Advanced data structures
 - MongoDB
 
 ### 📚 Languages and Tools
