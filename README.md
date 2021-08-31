@@ -7,11 +7,11 @@ she/her/hers
 </p>
 
 ### 🔭 I’m currently working on
-- Project demos
 - [Portfolio website](https://djliao.dev)
+- a choir/gig organization app!
 
 ### 🌱 I’m currently learning
-- Advanced data structures
+- data structures
 - Python
 
 ### 📚 Languages and Tools
