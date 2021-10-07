@@ -11,8 +11,7 @@ she/her/hers
 - a choir/gig organization app!
 
 ### 🌱 I’m currently learning
-- data structures
-- Python
+- Typescript
 
 ### 📚 Languages and Tools
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />  <img height="32"  src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" />  <img height="32"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /> 
