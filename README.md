@@ -6,19 +6,9 @@ Full stack software developer based out of Washington, DC.  <br>
 she/her/hers
 </p>
 
-### 🔭 I’m currently working on
-- [Portfolio website](https://djliao.dev)
-- a choir/gig organization app!
-
-### 🌱 I’m currently learning
-- Typescript
-
 ### 📚 Languages and Tools
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />  <img height="32"  src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" />  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" />  <img height="32"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /> 
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1024px-Antu_mongodb.svg.png" />
-
-
-
 
 ### 📫 How to reach me
 - djliao(at)gmail.com 
@@ -27,6 +17,14 @@ she/her/hers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+### 🔭 I’m currently working on
+- [Portfolio website](https://djliao.dev)
+- a choir/gig organization app!
+
+### 🌱 I’m currently learning
+- Typescript
+
 
 ## 👋🏻 Hi, I'm Diana!
 
