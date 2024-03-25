@@ -13,14 +13,6 @@ she/her/hers
 - djliao(at)gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/djliao/)
 
-### 🔭 I’m currently working on
-- a "recommend me a movie" web app
-- [Portfolio website](https://djliao.dev) (in theory, but probably not)
-- a choir/gig organization app (on hold, but always in development in my head)
-
-### 🌱 I’m currently learning
-- Python and Django
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaLiao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
