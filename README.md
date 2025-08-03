@@ -2,7 +2,7 @@
   
 <p align="center">
 Full stack software developer based out of Washington, DC.  <br>
-Sometimes I teach Rails.
+Sometimes I teach Rails. <br>
 🧶 | 🎤 | 🎮 | 🎸 | 🎲 | 🖖🏼    <br>
 she/her/hers
 </p>
